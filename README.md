@@ -3,7 +3,7 @@
 
 The data for this project comes from the UCI Machine Learning repository found here: [here](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
-Link for the [The Jupyter Notebook](https://github.com/tshih94/car-price-model/blob/main/bank-marketing.ipynb)
+Link for the [The Jupyter Notebook](https://github.com/tshih94/bank-marketing/blob/main/bank-marketing.ipynb)
 
 ## Findings
 The model that did best on the accuracy metric was Linear Regression, and the model that did best at recall, a metric more closely aligned with the business objective, was K-Nearest Neighbors. 
