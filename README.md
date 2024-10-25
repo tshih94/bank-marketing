@@ -6,7 +6,9 @@ The data for this project comes from the UCI Machine Learning repository found h
 Link for the [The Jupyter Notebook](https://github.com/tshih94/car-price-model/blob/main/bank-marketing.ipynb)
 
 ## Findings
+The model that did best on the accuracy metric was Linear Regression, and the model that did best at recall, a metric more closely aligned with the business objective, was K-Nearest Neighbors. 
 
+The models found high subscription rates among students and retirees and low rates among entrepreneurs and blue collar workers and that campaigns were most successful in March, September, October, and December, while being relatively ineffective in May, July, August, and November. These are good points for the bank to start from to make their marketing campaigns more effective.
 
 ## Built With
 * [Jupyter Notebooks](https://jupyter.org/) - Python3
